@@ -1,0 +1,55 @@
+# path of a net files 
+>netdir
+/slurm/home/zju/zhanglab/liujing/Project/Amniote/Deschrambler/Chicken_Ref/ChainNet
+
+# path of a chain files 
+>chaindir
+/slurm/home/zju/zhanglab/liujing/Project/Amniote/Deschrambler/Chicken_Ref/ChainNet
+
+# species-name tag1 tag2
+# tag1 (0: ref-species, 1: descendents, 2: outgroup)
+# tag2 (1: chromosome assembly, 0: others)
+# Warning for tag2: Use the value 1 only when a chromosome name starts with "chr". 
+>species
+Chicken 0 1
+Cheetah 1 1
+European_otter 1 1
+Chinese_pangolin 1 1
+Donkey 1 1
+Pig 1 1
+Killer_whale 1 1
+Sheep 1 1
+Fruit_bat 1 1
+Brown_bat 1 1
+Human 1 1
+Rhesus_macaque 1 1
+European_rabbit 1 1
+Gray_squirrel 1 1
+Mouse 1 1
+Giant_anteater 1 1
+Asian_elephant 1 1
+Aardvark 1 1
+Tasmanian_devil 1 1
+Australian_echidna 1 1
+Platypus 1 1
+Whip_snake 1 1
+Sea_snake 1 1
+Burmese_python 1 1
+Panther_chameleon 1 1
+Crag_lizard 1 1
+Leopard_gecko 1 1
+Softshell_turtle 1 1
+Sea_turtle 1 1
+Siamese_crocodile 1 1
+Chinese_alligator 1 1
+Emu 1 1
+Great_bustard 1 1
+Eurasian_nightjar 1 1
+Monk_parakeet 1 1
+Hooded_crow 1 1
+Tropical_frog 2 1
+
+# block resolution (bp): DO NOT CHANGE
+>resolution
+<resolutionwillbechanged>
+
